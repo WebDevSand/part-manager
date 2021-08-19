@@ -1,0 +1,14 @@
+**/.DS_Store
+**/*.log
+
+**/*.pdf
+**/*.png
+**/*.jpeg
+**/*.jpg
+**/*.zip
+**/*.rar
+
+!images/*.*
+
+copyToProduction.sh
+copyDataBase.sh
